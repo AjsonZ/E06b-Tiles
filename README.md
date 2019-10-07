@@ -1,6 +1,8 @@
 # E06b-Tiles
 Playing with the Tiled Map Editor
 
+# This assignment is to create a 2D map. It's fun!
+
 This is an opportunity for you to experiment with using the Tiled Map Editor to build a 2D platformer.
 
  * Download the Tiled Map Editor at [https://www.mapeditor.org](https://www.mapeditor.org). Follow the links to "Download at itch.io", click the "Download Now" button. Feel free to donate, or click the "No thanks, just take me to the downloads" link. Then download the version appropriate for your computer. *If you are using a computer in the lap, make sure you download "Tiled for Windows (64-bit), snapshot"*
